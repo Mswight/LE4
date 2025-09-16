@@ -1,0 +1,10 @@
+C:\Users\Justa\source\repos\AlhusainFatimaLE2\AlhusainFatimaBlogDB\bin\Debug\AlhusainFatimaBlogDB.dacpac
+C:\Users\Justa\source\repos\AlhusainFatimaLE2\AlhusainFatimaBlogDB\bin\Debug\AlhusainFatimaBlogDB.dll
+C:\Users\Justa\source\repos\AlhusainFatimaLE2\AlhusainFatimaBlogDB\bin\Debug\AlhusainFatimaBlogDB.pdb
+C:\Users\Justa\source\repos\AlhusainFatimaLE2\AlhusainFatimaBlogDB\obj\Debug\AlhusainFatimaBlogDB.sqlproj.AssemblyReference.cache
+C:\Users\Justa\source\repos\AlhusainFatimaLE2\AlhusainFatimaBlogDB\obj\Debug\AlhusainFatimaBlogDB.dll
+C:\Users\Justa\source\repos\AlhusainFatimaLE2\AlhusainFatimaBlogDB\obj\Debug\AlhusainFatimaBlogDB.pdb
+C:\Users\Justa\source\repos\AlhusainFatimaLE2\AlhusainFatimaBlogDB\obj\Debug\Model.xml
+C:\Users\Justa\source\repos\AlhusainFatimaLE2\AlhusainFatimaBlogDB\obj\Debug\refactor.xml
+C:\Users\Justa\source\repos\AlhusainFatimaLE2\AlhusainFatimaBlogDB\obj\Debug\postdeploy.sql
+C:\Users\Justa\source\repos\AlhusainFatimaLE2\AlhusainFatimaBlogDB\obj\Debug\predeploy.sql
